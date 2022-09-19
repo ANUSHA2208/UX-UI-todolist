@@ -7,11 +7,6 @@
          width="800" />
 </h2>
 
-
-
-
-
-https://github.com/ANUSHA2208/UX-UI-todolist/blob/main/ezgif.com-gif-maker.gif
 ## Landing Page
 ### Functionalities:
 
