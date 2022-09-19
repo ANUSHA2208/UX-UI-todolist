@@ -1,5 +1,11 @@
 # UX-UI-todolist
 
+
+
+
+
+
+https://github.com/ANUSHA2208/UX-UI-todolist/blob/main/ezgif.com-gif-maker.gif
 ## Landing Page
 ### Functionalities:
 
